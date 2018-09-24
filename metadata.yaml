@@ -1,5 +1,8 @@
 _repo: A-Chance-for-Himself-or-Jack-Hazard-and-His-Treasure_56759
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56759-h/images/cover.jpg
 creator:
   author:
     agent_name: Trowbridge, J. T. (John Townsend)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9020
     wikipedia: http://en.wikipedia.org/wiki/John_Townsend_Trowbridge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56759#A-Chance-for-Himself-or-Jack-Hazard-and-His-Treasure
 gutenberg_issued: '2018-03-16'
 gutenberg_type: Text
 identifiers:
